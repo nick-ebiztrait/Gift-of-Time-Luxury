@@ -1,0 +1,118 @@
+{% style %}
+  .size-table .size-table-link {
+    margin-top: 10px;
+    text-align: center;
+  }
+  .size-table td{
+    text-align: center;
+  }
+{% endstyle %}
+
+{%- style -%}
+  .section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+{%- endstyle -%}
+<div class="size-table page-width section-{{ section.id }}-padding">
+  <h4 class="size-table-title">{{ section.settings.title }}</h4>
+  <table style="width:100%">
+    <tr>
+      <th>case diameter</th>
+      <th>case lugs size</th>
+      <th>buckle size</th>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>22</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>22</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>24</td>
+      <td>22</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>26</td>
+      <td>22</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>26</td>
+      <td>22</td>
+    </tr>
+  </table>
+  <div class="size-table-link">
+    <a href="{{ section.settings.link }}" class="button button--primary">{{ section.settings.button_label }}</a>
+  </div>
+</div>
+{% schema %}
+{
+  "name": "size table-4",
+  "tag": "section",
+  "class": "section",
+  "disabled_on": {
+    "groups": ["header", "footer"]
+  },
+  "settings": [
+{
+          "type": "inline_richtext",
+          "id": "title",
+
+          "label": "table title"
+        },
+        {
+          "type": "text",
+          "id": "button_label",
+          "default": "Button label",
+          "label": "button text"
+
+        },
+        {
+          "type": "url",
+          "id": "link",
+          "label": "button link"
+        },
+     {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_top",
+      "default": 36
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_bottom",
+      "default": 36
+    }
+  ],
+
+  "presets": [
+    {
+      "name": "size table-4",
+
+    }
+  ]
+}
+{% endschema %}

@@ -1,0 +1,185 @@
+@media only screen and (max-width: 1440px) {
+  .custom-img-banner-two .banner__content {
+    padding: 0 20% 0 0;
+  }
+  .header__menu-item span {
+    transition: text-decoration var(--duration-short) ease;
+    text-transform: uppercase;
+    font-size: 16px;
+  }
+  ul.list-menu li {
+    padding:0;
+  }
+  .custom-slideshow .banner__heading {
+    font-size: 90px;
+  }
+  .custom-slideshow .banner__text {
+    font-size: 16px;
+  }
+  .custom-slideshow a.button.button--secondary {
+    font-size: 18px;
+  }
+}
+@media only screen and (max-width: 1366px) {
+/*   ul.list-menu li {
+    padding:0;
+  } */
+}
+@media only screen and (max-width: 1280px) {
+/*   ul.list-menu li {
+    padding: 0;
+  } */
+}
+@media only screen and (max-width: 1024px) {
+  .header__menu-item {
+    padding: 0.8rem;
+  }
+  .custom-row .image-with-text__content {
+    border-top-left-radius: 50px !important;
+  }
+  .custom-row .image-with-text__media,
+  .custom-row .image-with-text__media img {
+    border-top-right-radius: 50px !important;
+    border-bottom-right-radius: 50px !important;
+  }
+  .custom-img-banner-two .banner__box.content-container {
+    max-width: 54rem !important;
+  }
+  .custom-img-banner-two h2.banner__heading {
+    font-size: 40px;
+  }
+  .custom-img-banner-two .banner__content {
+    justify-content: flex-start !important;
+    padding: 0 0 0 14%;
+  }
+  ul.list-menu li {
+    padding: 0;
+  }
+  .header__menu-item span {
+    font-size: 13px;
+  }
+  .custom-slideshow .banner__box {
+    padding: 0;
+  }
+  .custom-slideshow .banner__heading {
+    font-size: 40px;
+  }
+  .custom-slideshow .banner__text {
+    font-size: 12px;
+  }
+  .custom-img-banner .banner__box {
+    max-width: 58rem !important;
+  }
+  .custom-img-banner h2.banner__heading {
+    font-size: 50px;
+  }
+  .custom-img-banner .banner__content.banner__content--middle-right {
+    justify-content: center !important;
+    padding: 0 0 0 36%;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .custom-slideshow .banner__text {
+    margin-right: 380px;
+  }
+  .custom-slideshow .banner__heading {
+    font-size: 33px;
+  }
+  .footer-block.grid__item {
+    width: 50%;
+  }
+  .footer__content-top .grid.footer__blocks-wrapper {
+    flex-direction: column;
+  }
+  .custom-img-banner-two h2.banner__heading {
+    font-size: 30px;
+  }
+  .custom-img-banner-two .banner__box.content-container .banner__text p {
+    color: #fff;
+    font-size: 12px;
+  }
+  .custom-img-banner-two a.button.button--secondary {
+    font-size: 12px;
+  }
+  .custom-img-banner-two .banner__box.content-container {
+    max-width: 31rem !important;
+  }
+  .custom-img-banner h2.banner__heading {
+    font-size: 30px;
+  }
+  .custom-img-banner .banner__text {
+    font-size: 12px;
+  }
+  .custom-img-banner .banner__box {
+    max-width: 38rem !important;
+  }
+  .custom-img-banner a.button.button--secondary {
+    font-size: 12px;
+  }
+}
+@media only screen and (max-width: 575px) {
+  .custom-slideshow .banner__text {
+    margin-right: 0;
+  }
+  p.footer-block__subheading {
+    text-transform: uppercase;
+    text-align: left;
+    margin-top: 0;
+  }
+  h2.footer-block__heading {
+    text-align: start;
+  }
+  .custom-img-banner .banner__text {
+    color: #000;
+  }
+  .custom-img-banner a.button.button--secondary {
+    color: #000;
+  }
+  .custom-img-banner h2.banner__heading {
+    font-size: 60px;
+  }
+  .custom-img-banner .banner__content.banner__content--middle-right {
+    justify-content: center !important;
+    padding: 0;
+  }
+  .announcement-bar__message span {
+    font-size: 15px;
+  }
+  .custom-slideshow .banner__text,
+  .custom-slideshow a.button.button--secondary {
+    font-size: 14px;
+    color: #000;
+  }
+  .custom-slideshow .banner__box {
+    padding: 0 15px;
+  }
+  .custom-slideshow .banner__heading {
+    font-size: 50px;
+    margin-top: 40px !important;
+  }
+  .custom-img-banner-two .banner__content {
+    justify-content: center !important;
+    padding: 0;
+  }
+  .custom-img-banner-two .banner__box.content-container .banner__text p {
+    color: #000;
+  }
+  .custom-img-banner-two a.button.button--secondary {
+    font-size: 12px;
+    color: #000;
+  }
+  .custom-img-banner-two .banner__box.content-container {
+    max-width: 68rem !important;
+  }
+  .custom-img-banner-two h2.banner__heading {
+    font-size: 47px;
+  }
+  .custom-row .image-with-text__media,
+  .custom-row .image-with-text__media img {
+    border-top-right-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+  }
+  .custom-row .image-with-text__content {
+    border-top-left-radius: 0 !important;
+  }
+}

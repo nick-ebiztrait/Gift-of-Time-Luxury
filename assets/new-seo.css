@@ -1,0 +1,181 @@
+.shopify-app-block .globo-app-extension {
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+.shopify-app-block .globo-app-extension .gfb__sticky-footer {
+  display: none !important;
+}
+.shopify-app-block .globo-app-extension .globo-form-control label {
+  font-family: Poppins;
+}
+.shopify-app-block .globo-app-extension .globo-form-control input {
+  font-family: Poppins;
+}
+.shopify-app-block .globo-form-app button {
+  font-family: Poppins;
+}
+.shopify-app-block .globo-form-app .messages p {
+  font-family: Poppins;
+}
+.collection-hero .collection-hero__description {
+  max-width: 100%;
+}
+.multicolumn-new .page-width {
+  max-width: 170rem;
+}
+.multicolumn-new .multicolumn-list__item.center .media--adapt img {
+  width: 100%;
+}
+.multicolumn-new .multicolumn-card .multicolumn-card__image-wrapper {
+  margin: 0px;
+}
+.multicolumn-new .multicolumn-card:hover .media:before {
+  overflow: visible;
+  opacity: 0.3;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=30)";
+  filter: alpha(opacity = 30);
+}
+
+.multicolumn-new .multicolumn-card .media:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #232323;
+  overflow: hidden;
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=0)";
+  filter: alpha(opacity = 0);
+  z-index: 2;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -ms-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+.multicolumn-new .multicolumn-card img {
+  transform: scale(1);
+  transition: all 1s ease;
+  left: unset !important;
+  transform: translate(0) !important;
+}
+.multicolumn-new .multicolumn-card:hover img {
+  transform: scale(1.1) !important;
+  transition: all 1s ease;
+}
+
+.multicolumn-new .multicolumn-card .multicolumn-card__info {
+  padding: 0px !important;
+}
+.multicolumn-new .multicolumn-card__info {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+
+.multicolumn-new .multicolumn-card__info .inline-richtext {
+  color: #fff;
+  font-size: 25px;
+  text-transform: uppercase;
+  padding: 0px;
+}
+
+.multicolumn-new .multicolumn-card__info .inline-richtext:after {
+  position: absolute;
+  left: 0;
+  width: 0;
+  bottom: -0.3rem;
+  height: 2px;
+  content: "";
+  display: block;
+  -webkit-transition: width 0.3s ease;
+  -moz-transition: width 0.3s ease;
+  -ms-transition: width 0.3s ease;
+  -o-transition: width 0.3s ease;
+  transition: width 0.3s ease;
+  background-color: #fff;
+}
+
+.multicolumn-new .multicolumn-card:hover .inline-richtext:after {
+  width: 100%;
+}
+
+.multicolumn-new .multicolumn-card .multicolumn-card__info {
+  padding: 0px;
+}
+.multicolumn-new .multicolumn-card .button {
+  position: absolute;
+  bottom: 5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  transition: all 0.5s ease;
+  z-index: 2;
+  background-color: #c3b096;
+  border: none;
+  text-transform: uppercase;
+}
+.multicolumn-new .multicolumn-card .button:hover {
+  background-color: #ae9d86;
+}
+.multicolumn-new .multicolumn-card .button:after {
+  box-shadow: none !important;
+}
+.multicolumn-new .multicolumn-card:hover .button {
+  bottom: 12.5%;
+  opacity: 1;
+}
+@media (max-width: 1024px) {
+  .multicolumn-new .multicolumn-card .button {
+    position: inherit;
+    bottom: unset;
+    left: unset;
+    opacity: 1;
+    transform: translate(0);
+  }
+  .multicolumn-new .multicolumn-card__info {
+    top: 45%;
+    left: 50%;
+  }
+  .multicolumn-new .multicolumn-card__info .inline-richtext {
+    font-size: 22px;
+  }
+  .multicolumn-new .multicolumn-card .multicolumn-card__info {
+    padding: 0px !important;
+  }
+}
+@media (max-width: 768px) {
+  .multicolumn-new .multicolumn-card .button {
+    position: inherit;
+    bottom: unset;
+    left: unset;
+    opacity: 1;
+    transform: translate(0);
+  }
+  .multicolumn-new .multicolumn-card__info .inline-richtext {
+    font-size: 22px;
+  }
+  .multicolumn-new .multicolumn-card .multicolumn-card__info {
+    padding: 0px !important;
+  }
+}
+@media (max-width: 576px) {
+  .multicolumn-new .multicolumn-card .button {
+    position: inherit;
+    bottom: unset;
+    left: unset;
+    opacity: 1;
+    transform: translate(0);
+  }
+  .multicolumn-new .multicolumn-card__info .inline-richtext {
+    font-size: 22px;
+  }
+  .multicolumn-new .multicolumn-card .multicolumn-card__info {
+    padding: 0px !important;
+  }
+}

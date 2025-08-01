@@ -1,0 +1,84 @@
+<section id="section-{{ section.id }}" class="{{ section.settings.css_class }}">
+  <section class="center page-width">
+    <h2 class="title cenetr">{{ section.settings.title }}</h2>
+  </section>
+  <section class="regular slider page-width">
+    {% for block in section.blocks %}
+      <div>
+        {% if block.settings.testi_img != blank %}
+          <div class="test_img">
+            <img src="{{ block.settings.testi_img | img_url: '140x' }}" alt="{{ block.settings.testi_img.alt }}">
+          </div>
+        {% endif %}
+        <div class="subtitle">
+          <p class="cus_name">
+            {% if block.settings.name != blank %}
+              <strong> {{ block.settings.name -}}</strong>
+              <br>
+            {% endif %}
+          </p>
+          <div class="customer-text">
+            {{ block.settings.testimonial }}
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </section>
+</section>
+{% schema %}
+{
+  "name": "custom slider",
+  "class": "custom_slider",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Heading",
+      "default": "Customer Testimonial"
+    },
+    {
+      "type": "text",
+      "id": "css_class",
+      "label": "CSS Class"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "select",
+      "name": "Slider Image",
+      "settings": [
+     {
+          "type": "image_picker",
+          "id": "testi_img",
+          "label": "Image"
+        },
+    {
+          "type": "richtext",
+          "id": "testimonial",
+          "label": "Testimonial",
+          "default": "<p>Include some of your favorite customer quotes and feedback here as social proof, to build credibility and trust for your services and products.</p>"
+        },
+		 {
+          "type": "text",
+          "id": "name",
+          "label": "Customer name"
+        }
+
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "category": "Text",
+      "name": "Slick slider",
+      "settings": {}
+    }
+  ]
+}
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}
