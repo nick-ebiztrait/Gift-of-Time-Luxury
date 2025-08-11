@@ -1,1 +1,644 @@
-{"sections":{"f6943cb1-43ce-4005-9e70-a7d083a444d7":{"type":"custom-image-banner","disabled":true,"custom_css":["#Banner-template--14509623771216__f6943cb1-43ce-4005-9e70-a7d083a444d7::after {opacity: 0; position: relative;}","#Banner-template--14509623771216__f6943cb1-43ce-4005-9e70-a7d083a444d7 .banner__content {z-index: 0;}"],"settings":{"image":"shopify:\/\/shop_images\/Banner-1200x700px-3_95bc68b8-5999-47b7-aafc-8c5c914a4b63.jpg","button_link_3":"shopify:\/\/collections","image_overlay_opacity":0,"image_height":"adapt","desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false,"css_class":""}},"e044416e-be9e-4f7b-a352-1d19c887e215":{"type":"slideshow","blocks":{"template--14509623771216__e044416e-be9e-4f7b-a352-1d19c887e215-16866563620ec08cfe-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/banner.png","heading":"Best SwissWatch Products","heading_size":"h1","subheading":"For over 20 years, we've maintained a standard of excellence. Upgrade your watch with our premium <strong>watch bands and straps <\/strong>to enhance your style and comfort. Join us in continuing our legacy of delivering the best in luxury watch accessories.","button_label":"Shop Now","link":"shopify:\/\/collections","button_style_secondary":true,"box_align":"middle-left","show_text_box":false,"text_alignment":"left","image_overlay_opacity":0,"color_scheme":"scheme-2e74d242-9906-4cbc-8c25-5e3c27196015","text_alignment_mobile":"center"}},"188f9a29-f7ab-4244-b6ba-03b87a3e9403":{"type":"slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Fathers-Day_1.jpg","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"shopify:\/\/collections\/all","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"template--14509623771216__e044416e-be9e-4f7b-a352-1d19c887e215-16866563620ec08cfe-1":{"type":"slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/banner.png","heading":"Best SwissWatch Products","heading_size":"h1","subheading":"20+ years of excellent delivering the best products to my clients","button_label":"Explore","link":"shopify:\/\/collections\/all","button_style_secondary":true,"box_align":"middle-left","show_text_box":false,"text_alignment":"left","image_overlay_opacity":0,"color_scheme":"scheme-2e74d242-9906-4cbc-8c25-5e3c27196015","text_alignment_mobile":"center"}}},"block_order":["template--14509623771216__e044416e-be9e-4f7b-a352-1d19c887e215-16866563620ec08cfe-0","188f9a29-f7ab-4244-b6ba-03b87a3e9403","template--14509623771216__e044416e-be9e-4f7b-a352-1d19c887e215-16866563620ec08cfe-1"],"settings":{"layout":"full_bleed","slide_height":"adapt_image","slider_visual":"dots","auto_rotate":false,"change_slides_speed":5,"image_behavior":"none","show_text_below":true,"accessibility_info":"Slideshow about our brand","css_class":"custom-slideshow"}},"rich_text":{"type":"rich-text","blocks":{"heading":{"type":"heading","settings":{"heading":"watch band & straps store","heading_size":"h1"}},"text":{"type":"text","settings":{"text":"<p>Explore our ever-changing inventory of top-quality products, sourced from the best OEMs in the industry, to give your watch a fresh new look. Elevate your watch with our premium bands and straps, curated to perfection for discerning enthusiasts like you.<\/p>"}},"7063baad-418e-42f9-ac5e-5fa05bf26248":{"type":"button","settings":{"button_label":"Shop now","button_link":"shopify:\/\/collections","button_style_secondary":true,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading","text","7063baad-418e-42f9-ac5e-5fa05bf26248"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"scheme-491c605b-1086-44fd-a0ba-7eec12b59aed","full_width":true,"padding_top":80,"padding_bottom":80,"css_class":"custom-rich-box"}},"image_banner":{"type":"image-banner","blocks":{"heading":{"type":"heading","settings":{"heading":"IWC Watch Collection","heading_size":"h0"}},"text":{"type":"text","settings":{"text":"Explore our collection of <strong>IWC watch straps. <\/strong>Each one is carefully chosen to perfectly match your watch. Upgrade your wristwear with our selection of high-quality straps.","text_style":"body"}},"button":{"type":"buttons","settings":{"button_label_1":"Shop now","button_link_1":"shopify:\/\/collections\/iwc","button_style_secondary_1":true,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading","text","button"],"settings":{"image":"shopify:\/\/shop_images\/banner-11.png","image_overlay_opacity":0,"image_height":"adapt","desktop_content_position":"middle-right","show_text_box":false,"desktop_content_alignment":"left","color_scheme":"scheme-2e74d242-9906-4cbc-8c25-5e3c27196015","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":true,"css_class":"custom-img-banner"}},"aec4ee14-35c1-462b-b209-da363e7b5c92":{"type":"collection-list","blocks":{"template--14509623771216__aec4ee14-35c1-462b-b209-da363e7b5c92-16866625768bb66b64-0":{"type":"featured_collection","settings":{"collection":"panerai"}},"template--14509623771216__aec4ee14-35c1-462b-b209-da363e7b5c92-16866625768bb66b64-1":{"type":"featured_collection","settings":{"collection":"breitling"}},"template--14509623771216__aec4ee14-35c1-462b-b209-da363e7b5c92-16866625768bb66b64-2":{"type":"featured_collection","settings":{"collection":"ap"}}},"block_order":["template--14509623771216__aec4ee14-35c1-462b-b209-da363e7b5c92-16866625768bb66b64-0","template--14509623771216__aec4ee14-35c1-462b-b209-da363e7b5c92-16866625768bb66b64-1","template--14509623771216__aec4ee14-35c1-462b-b209-da363e7b5c92-16866625768bb66b64-2"],"settings":{"title":"","heading_size":"h1","image_ratio":"square","columns_desktop":3,"color_scheme":"","show_view_all":false,"columns_mobile":"1","swipe_on_mobile":false,"padding_top":80,"padding_bottom":40,"css_class":"custom-collection"}},"featured_collection":{"type":"featured-collection","settings":{"title":"Featured Products","heading_size":"h2","description":"","show_description":false,"description_style":"body","collection":"featured-collection","products_to_show":4,"columns_desktop":4,"full_width":false,"show_view_all":true,"view_all_style":"outline","enable_desktop_slider":false,"color_scheme":"background-1","image_ratio":"square","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":40,"padding_bottom":80,"css_class":"custom-feature-product"}},"1db75b3d-5bc4-4f43-be08-25c75f8993ff":{"type":"image-banner","blocks":{"template--14509623771216__1db75b3d-5bc4-4f43-be08-25c75f8993ff-168673566797d20368-0":{"type":"heading","settings":{"heading":"Blancpain Watch Collection","heading_size":"h1"}},"template--14509623771216__1db75b3d-5bc4-4f43-be08-25c75f8993ff-168673566797d20368-1":{"type":"text","settings":{"text":"Explore our range of <strong>Blancpain straps<\/strong>, known for their exceptional craftsmanship and precision. Enhance your wristwear with our curated collection of <strong>Blancpain watch straps<\/strong>, tailored to match your style.","text_style":"body"}},"template--14509623771216__1db75b3d-5bc4-4f43-be08-25c75f8993ff-168673566797d20368-2":{"type":"buttons","settings":{"button_label_1":"Shop Now","button_link_1":"shopify:\/\/collections\/blancpain","button_style_secondary_1":true,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--14509623771216__1db75b3d-5bc4-4f43-be08-25c75f8993ff-168673566797d20368-0","template--14509623771216__1db75b3d-5bc4-4f43-be08-25c75f8993ff-168673566797d20368-1","template--14509623771216__1db75b3d-5bc4-4f43-be08-25c75f8993ff-168673566797d20368-2"],"settings":{"image":"shopify:\/\/shop_images\/banner-2.png","image_overlay_opacity":0,"image_height":"adapt","desktop_content_position":"middle-left","show_text_box":false,"desktop_content_alignment":"left","color_scheme":"scheme-2e74d242-9906-4cbc-8c25-5e3c27196015","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true,"css_class":"custom-img-banner-two"}},"ea7da348-3b21-4a75-a1a2-a2f4d717894f":{"type":"collection-list","blocks":{"template--14509623771216__ea7da348-3b21-4a75-a1a2-a2f4d717894f-1686736380a098e935-0":{"type":"featured_collection","settings":{"collection":"rubber-strap"}},"template--14509623771216__ea7da348-3b21-4a75-a1a2-a2f4d717894f-1686736380a098e935-1":{"type":"featured_collection","settings":{"collection":"steel-pin"}}},"block_order":["template--14509623771216__ea7da348-3b21-4a75-a1a2-a2f4d717894f-1686736380a098e935-0","template--14509623771216__ea7da348-3b21-4a75-a1a2-a2f4d717894f-1686736380a098e935-1"],"disabled":true,"settings":{"title":"","heading_size":"h1","image_ratio":"square","columns_desktop":2,"color_scheme":"","show_view_all":false,"columns_mobile":"1","swipe_on_mobile":false,"padding_top":80,"padding_bottom":40,"css_class":"custom-collection"}},"multicolumn_new_6PmcRH":{"type":"multicolumn-new","blocks":{"column_8AAjgw":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/rubber-strap_1.webp","title":"<strong>rubber strap<\/strong>","text":"","link_label":"shop now","link":"shopify:\/\/collections\/rubber-strap"}},"column_NbRpBR":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/steel-pin.webp","title":"<strong>steel pin<\/strong>","text":"","link_label":"shop now","link":"shopify:\/\/collections\/steel-pin"}},"column_7Vt8zt":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/780_X_780.1_1.jpg","title":"<strong>buckle<\/strong>","text":"","link_label":"shop now","link":"shopify:\/\/collections\/buckle"}},"column_FEYeBr":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/780_X_780.2.jpg","title":"<strong>sell or trade<\/strong>","text":"","link_label":"get a free quote","link":"shopify:\/\/pages\/sell-or-trade"}}},"block_order":["column_8AAjgw","column_NbRpBR","column_7Vt8zt","column_FEYeBr"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":2,"column_alignment":"center","background_style":"none","button_label":"","button_link":"","color_scheme":"","columns_mobile":"1","swipe_on_mobile":false,"padding_top":80,"padding_bottom":40,"css_class":""}},"bce5a65a-8d10-4b6a-b9f5-7f2ba3bc9250":{"type":"multirow","blocks":{"template--14509623771216__bce5a65a-8d10-4b6a-b9f5-7f2ba3bc9250-16867443650b5ecfb9-0":{"type":"row","settings":{"image":"shopify:\/\/shop_images\/about-1.png","caption":"","heading":"About us","text":"<p>Gift of Time Luxury Store offers our valued clients the opportunity to make their treasured high-end watches truly unique timepieces through accessories designed by the manufacturer to enhance the look, feel, and enjoyment of your most trusted daily advisor - your wristwatch!<\/p>","button_label":"Read More","button_link":"shopify:\/\/pages\/about-us"}}},"block_order":["template--14509623771216__bce5a65a-8d10-4b6a-b9f5-7f2ba3bc9250-16867443650b5ecfb9-0"],"settings":{"image_height":"medium","desktop_image_width":"medium","heading_size":"h1","text_style":"body","button_style":"secondary","desktop_content_position":"middle","desktop_content_alignment":"center","image_layout":"alternate-right","section_color_scheme":"accent-2","row_color_scheme":"scheme-eeb704ef-498f-4259-8c12-caa488e357a0","mobile_content_alignment":"left","padding_top":40,"padding_bottom":0,"css_class":"custom-row"}},"a3757606-e7d8-4bfe-a240-135128832d2c":{"type":"custom-testimonials","blocks":{"70157935-9644-436f-92d3-5792ce6d8155":{"type":"select","settings":{"testimonial":"<p>GREAT COMMUNICATION + FAST DELIVERY = HIGHLY RECOMMENDED!<\/p>","name":"Frengky C., Katy, TX"}},"4f2a70db-868c-4b2f-94ad-1db8e2ab34d1":{"type":"select","settings":{"testimonial":"<p>Great item, and great seller. 5 Stars!<\/p>","name":"Chris B., Birmingham, UK"}},"7dced6c8-6a20-4e5d-a628-6b9a624c6026":{"type":"select","settings":{"testimonial":"<p>Super quick response to ship once purchase was official and the packaging was professional for an OEM and the product received was just as indicated. I purchased another item from them because of the positive trustworthy experience.<\/p>","name":"Cory C., Dallas, TX"}},"ef4e9123-c3d7-4455-b1f5-6269dc312660":{"type":"select","settings":{"testimonial":"<p>Appreciate the quick service! The strap is perfect!<\/p>","name":"Mauricio P., Fort Worth, Texas"}},"select_GJBn4B":{"type":"select","settings":{"testimonial":"<p>Great Seller! Great product AAA+++ Thank you<\/p>","name":"-Aziz T., Las Vegas, NV"}},"select_DwyXhj":{"type":"select","settings":{"testimonial":"<p>Very nice Breitling rubber strap with logo buckle. Great price with fast shipping! Thank you!<\/p>","name":"Eric W., Boerne, TX"}},"select_Ed6DRY":{"type":"select","settings":{"testimonial":"<p>GREAT SELLER! WE HAVE DONE MULTIPLE DEALS AND WILL CONTINUE TO DO SO! A+++<\/p>","name":"Jay D., Norwalk, CT"}},"select_bamhWW":{"type":"select","settings":{"testimonial":"<p>Great strap exactly as described ,fast and professional service !<\/p>","name":"Nigel T., Wimborne, UK"}},"select_k3MFMF":{"type":"select","settings":{"testimonial":"<p>Experience could not be better! Great seller and an equally great item! AAA+<\/p>","name":"Clifford J., Baldock, UK"}},"select_gcqaPk":{"type":"select","settings":{"testimonial":"<p>Fantastic seller items are perfect and he went out of his way to provide phenomenal service and get me items on time for Christmas will purchase items again thank you, sir<\/p>","name":"Joe P., Bethlehem, PA"}},"select_gDYeMN":{"type":"select","settings":{"testimonial":"<p>Excellent transaction. Item as described with fast shipping. 5 stars!!!!!!!!!!!<\/p>","name":"Brian N., Chicago, IL"}},"select_Mn6YGf":{"type":"select","settings":{"testimonial":"<p>Arrived on time and exactly as described. Very positive experience. Thank you<\/p>","name":"Michael B., La Jolla, CA"}},"select_APp47Y":{"type":"select","settings":{"testimonial":"<p>A+++! Exactly as described!! Fast shipping!! Easy transaction! Great seller!!<\/p>","name":"J. Jack, Bethesda, MD"}},"select_96bxiA":{"type":"select","settings":{"testimonial":"<p>OTTIMO VENDITORE! PRODOTTO ORIGINALE! CONSIGLIATO AL 100%!<\/p>","name":"Calin C., Oradea, Romania"}},"select_NcHzDU":{"type":"select","settings":{"testimonial":"<p>Great price for this replacement band\/strap for my Breitling Chronomat! Would def buy from again.<\/p>","name":"John B., League City, TX"}},"select_bcU9fi":{"type":"select","settings":{"testimonial":"<p>Super fast shipping. Item as described. Highly recommend. Thank you!<\/p>","name":"Ahmed F., Lake Forest, IL"}}},"block_order":["70157935-9644-436f-92d3-5792ce6d8155","4f2a70db-868c-4b2f-94ad-1db8e2ab34d1","7dced6c8-6a20-4e5d-a628-6b9a624c6026","ef4e9123-c3d7-4455-b1f5-6269dc312660","select_GJBn4B","select_DwyXhj","select_Ed6DRY","select_bamhWW","select_k3MFMF","select_gcqaPk","select_gDYeMN","select_Mn6YGf","select_APp47Y","select_96bxiA","select_NcHzDU","select_bcU9fi"],"settings":{"title":"Customer Testimonial","css_class":"custom-testimonial"}},"16868577293f984b5f":{"type":"apps","blocks":{"dbf54e44-d841-41e5-8d81-bc5bef061cbf":{"type":"shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5","settings":{"title":"","title_color":"","title_size_v2":0,"alignment":"center","instafeed_margin_top":0,"instafeed_margin_bottom":0,"instafeed_margin_sides":0,"show_instagram_link":false,"link_alignment":"left","link_color":"#000000","background_color":"","feed_id":"","html_area":""}}},"block_order":["dbf54e44-d841-41e5-8d81-bc5bef061cbf"],"settings":{"include_margins":true}}},"order":["f6943cb1-43ce-4005-9e70-a7d083a444d7","e044416e-be9e-4f7b-a352-1d19c887e215","rich_text","image_banner","aec4ee14-35c1-462b-b209-da363e7b5c92","featured_collection","1db75b3d-5bc4-4f43-be08-25c75f8993ff","ea7da348-3b21-4a75-a1a2-a2f4d717894f","multicolumn_new_6PmcRH","bce5a65a-8d10-4b6a-b9f5-7f2ba3bc9250","a3757606-e7d8-4bfe-a240-135128832d2c","16868577293f984b5f"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "f6943cb1-43ce-4005-9e70-a7d083a444d7": {
+      "type": "custom-image-banner",
+      "disabled": true,
+      "custom_css": [
+        "#Banner-template--14509623771216__f6943cb1-43ce-4005-9e70-a7d083a444d7::after {opacity: 0; position: relative;}",
+        "#Banner-template--14509623771216__f6943cb1-43ce-4005-9e70-a7d083a444d7 .banner__content {z-index: 0;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Banner-1200x700px-3_95bc68b8-5999-47b7-aafc-8c5c914a4b63.jpg",
+        "button_link_3": "shopify://collections",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
+        "css_class": ""
+      }
+    },
+    "e044416e-be9e-4f7b-a352-1d19c887e215": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14509623771216__e044416e-be9e-4f7b-a352-1d19c887e215-16866563620ec08cfe-0": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/banner.png",
+            "heading": "Best SwissWatch Products",
+            "heading_size": "h1",
+            "subheading": "For over 20 years, we've maintained a standard of excellence. Upgrade your watch with our premium <strong>watch bands and straps </strong>to enhance your style and comfort. Join us in continuing our legacy of delivering the best in luxury watch accessories.",
+            "button_label": "Shop Now",
+            "link": "shopify://collections",
+            "button_style_secondary": true,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-2e74d242-9906-4cbc-8c25-5e3c27196015",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "188f9a29-f7ab-4244-b6ba-03b87a3e9403": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/image_3.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/all",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--14509623771216__e044416e-be9e-4f7b-a352-1d19c887e215-16866563620ec08cfe-1": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/banner.png",
+            "heading": "Best SwissWatch Products",
+            "heading_size": "h1",
+            "subheading": "20+ years of excellent delivering the best products to my clients",
+            "button_label": "Explore",
+            "link": "shopify://collections/all",
+            "button_style_secondary": true,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-2e74d242-9906-4cbc-8c25-5e3c27196015",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14509623771216__e044416e-be9e-4f7b-a352-1d19c887e215-16866563620ec08cfe-0",
+        "188f9a29-f7ab-4244-b6ba-03b87a3e9403",
+        "template--14509623771216__e044416e-be9e-4f7b-a352-1d19c887e215-16866563620ec08cfe-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand",
+        "css_class": "custom-slideshow"
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "watch band & straps store",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Explore our ever-changing inventory of top-quality products, sourced from the best OEMs in the industry, to give your watch a fresh new look. Elevate your watch with our premium bands and straps, curated to perfection for discerning enthusiasts like you.</p>"
+          }
+        },
+        "7063baad-418e-42f9-ac5e-5fa05bf26248": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify://collections",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "7063baad-418e-42f9-ac5e-5fa05bf26248"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-491c605b-1086-44fd-a0ba-7eec12b59aed",
+        "full_width": true,
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "css_class": "custom-rich-box"
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "IWC Watch Collection",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Explore our collection of <strong>IWC watch straps. </strong>Each one is carefully chosen to perfectly match your watch. Upgrade your wristwear with our selection of high-quality straps.",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop now",
+            "button_link_1": "shopify://collections/iwc",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/banner-11.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-right",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-2e74d242-9906-4cbc-8c25-5e3c27196015",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true,
+        "css_class": "custom-img-banner"
+      }
+    },
+    "aec4ee14-35c1-462b-b209-da363e7b5c92": {
+      "type": "collection-list",
+      "blocks": {
+        "template--14509623771216__aec4ee14-35c1-462b-b209-da363e7b5c92-16866625768bb66b64-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "panerai"
+          }
+        },
+        "template--14509623771216__aec4ee14-35c1-462b-b209-da363e7b5c92-16866625768bb66b64-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "breitling"
+          }
+        },
+        "template--14509623771216__aec4ee14-35c1-462b-b209-da363e7b5c92-16866625768bb66b64-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ap"
+          }
+        }
+      },
+      "block_order": [
+        "template--14509623771216__aec4ee14-35c1-462b-b209-da363e7b5c92-16866625768bb66b64-0",
+        "template--14509623771216__aec4ee14-35c1-462b-b209-da363e7b5c92-16866625768bb66b64-1",
+        "template--14509623771216__aec4ee14-35c1-462b-b209-da363e7b5c92-16866625768bb66b64-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 80,
+        "padding_bottom": 40,
+        "css_class": "custom-collection"
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured Products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "featured-collection",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 80,
+        "css_class": "custom-feature-product"
+      }
+    },
+    "1db75b3d-5bc4-4f43-be08-25c75f8993ff": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14509623771216__1db75b3d-5bc4-4f43-be08-25c75f8993ff-168673566797d20368-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Blancpain Watch Collection",
+            "heading_size": "h1"
+          }
+        },
+        "template--14509623771216__1db75b3d-5bc4-4f43-be08-25c75f8993ff-168673566797d20368-1": {
+          "type": "text",
+          "settings": {
+            "text": "Explore our range of <strong>Blancpain straps</strong>, known for their exceptional craftsmanship and precision. Enhance your wristwear with our curated collection of <strong>Blancpain watch straps</strong>, tailored to match your style.",
+            "text_style": "body"
+          }
+        },
+        "template--14509623771216__1db75b3d-5bc4-4f43-be08-25c75f8993ff-168673566797d20368-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify://collections/blancpain",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14509623771216__1db75b3d-5bc4-4f43-be08-25c75f8993ff-168673566797d20368-0",
+        "template--14509623771216__1db75b3d-5bc4-4f43-be08-25c75f8993ff-168673566797d20368-1",
+        "template--14509623771216__1db75b3d-5bc4-4f43-be08-25c75f8993ff-168673566797d20368-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/banner-2.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-2e74d242-9906-4cbc-8c25-5e3c27196015",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "css_class": "custom-img-banner-two"
+      }
+    },
+    "ea7da348-3b21-4a75-a1a2-a2f4d717894f": {
+      "type": "collection-list",
+      "blocks": {
+        "template--14509623771216__ea7da348-3b21-4a75-a1a2-a2f4d717894f-1686736380a098e935-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "rubber-strap"
+          }
+        },
+        "template--14509623771216__ea7da348-3b21-4a75-a1a2-a2f4d717894f-1686736380a098e935-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "steel-pin"
+          }
+        }
+      },
+      "block_order": [
+        "template--14509623771216__ea7da348-3b21-4a75-a1a2-a2f4d717894f-1686736380a098e935-0",
+        "template--14509623771216__ea7da348-3b21-4a75-a1a2-a2f4d717894f-1686736380a098e935-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 80,
+        "padding_bottom": 40,
+        "css_class": "custom-collection"
+      }
+    },
+    "multicolumn_new_6PmcRH": {
+      "type": "multicolumn-new",
+      "blocks": {
+        "column_8AAjgw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/rubber-strap_1.webp",
+            "title": "<strong>rubber strap</strong>",
+            "text": "",
+            "link_label": "shop now",
+            "link": "shopify://collections/rubber-strap"
+          }
+        },
+        "column_NbRpBR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/steel-pin.webp",
+            "title": "<strong>steel pin</strong>",
+            "text": "",
+            "link_label": "shop now",
+            "link": "shopify://collections/steel-pin"
+          }
+        },
+        "column_7Vt8zt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/780_X_780.1_1.jpg",
+            "title": "<strong>buckle</strong>",
+            "text": "",
+            "link_label": "shop now",
+            "link": "shopify://collections/buckle"
+          }
+        },
+        "column_FEYeBr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/780_X_780.2.jpg",
+            "title": "<strong>sell or trade</strong>",
+            "text": "",
+            "link_label": "get a free quote",
+            "link": "shopify://pages/sell-or-trade"
+          }
+        }
+      },
+      "block_order": [
+        "column_8AAjgw",
+        "column_NbRpBR",
+        "column_7Vt8zt",
+        "column_FEYeBr"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 80,
+        "padding_bottom": 40,
+        "css_class": ""
+      }
+    },
+    "bce5a65a-8d10-4b6a-b9f5-7f2ba3bc9250": {
+      "type": "multirow",
+      "blocks": {
+        "template--14509623771216__bce5a65a-8d10-4b6a-b9f5-7f2ba3bc9250-16867443650b5ecfb9-0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/about-1.png",
+            "caption": "",
+            "heading": "About us",
+            "text": "<p>Gift of Time Luxury Store offers our valued clients the opportunity to make their treasured high-end watches truly unique timepieces through accessories designed by the manufacturer to enhance the look, feel, and enjoyment of your most trusted daily advisor - your wristwatch!</p>",
+            "button_label": "Read More",
+            "button_link": "shopify://pages/about-us"
+          }
+        }
+      },
+      "block_order": [
+        "template--14509623771216__bce5a65a-8d10-4b6a-b9f5-7f2ba3bc9250-16867443650b5ecfb9-0"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "image_layout": "alternate-right",
+        "section_color_scheme": "accent-2",
+        "row_color_scheme": "scheme-eeb704ef-498f-4259-8c12-caa488e357a0",
+        "mobile_content_alignment": "left",
+        "padding_top": 40,
+        "padding_bottom": 0,
+        "css_class": "custom-row"
+      }
+    },
+    "a3757606-e7d8-4bfe-a240-135128832d2c": {
+      "type": "custom-testimonials",
+      "blocks": {
+        "70157935-9644-436f-92d3-5792ce6d8155": {
+          "type": "select",
+          "settings": {
+            "testimonial": "<p>GREAT COMMUNICATION + FAST DELIVERY = HIGHLY RECOMMENDED!</p>",
+            "name": "Frengky C., Katy, TX"
+          }
+        },
+        "4f2a70db-868c-4b2f-94ad-1db8e2ab34d1": {
+          "type": "select",
+          "settings": {
+            "testimonial": "<p>Great item, and great seller. 5 Stars!</p>",
+            "name": "Chris B., Birmingham, UK"
+          }
+        },
+        "7dced6c8-6a20-4e5d-a628-6b9a624c6026": {
+          "type": "select",
+          "settings": {
+            "testimonial": "<p>Super quick response to ship once purchase was official and the packaging was professional for an OEM and the product received was just as indicated. I purchased another item from them because of the positive trustworthy experience.</p>",
+            "name": "Cory C., Dallas, TX"
+          }
+        },
+        "ef4e9123-c3d7-4455-b1f5-6269dc312660": {
+          "type": "select",
+          "settings": {
+            "testimonial": "<p>Appreciate the quick service! The strap is perfect!</p>",
+            "name": "Mauricio P., Fort Worth, Texas"
+          }
+        },
+        "select_GJBn4B": {
+          "type": "select",
+          "settings": {
+            "testimonial": "<p>Great Seller! Great product AAA+++ Thank you</p>",
+            "name": "-Aziz T., Las Vegas, NV"
+          }
+        },
+        "select_DwyXhj": {
+          "type": "select",
+          "settings": {
+            "testimonial": "<p>Very nice Breitling rubber strap with logo buckle. Great price with fast shipping! Thank you!</p>",
+            "name": "Eric W., Boerne, TX"
+          }
+        },
+        "select_Ed6DRY": {
+          "type": "select",
+          "settings": {
+            "testimonial": "<p>GREAT SELLER! WE HAVE DONE MULTIPLE DEALS AND WILL CONTINUE TO DO SO! A+++</p>",
+            "name": "Jay D., Norwalk, CT"
+          }
+        },
+        "select_bamhWW": {
+          "type": "select",
+          "settings": {
+            "testimonial": "<p>Great strap exactly as described ,fast and professional service !</p>",
+            "name": "Nigel T., Wimborne, UK"
+          }
+        },
+        "select_k3MFMF": {
+          "type": "select",
+          "settings": {
+            "testimonial": "<p>Experience could not be better! Great seller and an equally great item! AAA+</p>",
+            "name": "Clifford J., Baldock, UK"
+          }
+        },
+        "select_gcqaPk": {
+          "type": "select",
+          "settings": {
+            "testimonial": "<p>Fantastic seller items are perfect and he went out of his way to provide phenomenal service and get me items on time for Christmas will purchase items again thank you, sir</p>",
+            "name": "Joe P., Bethlehem, PA"
+          }
+        },
+        "select_gDYeMN": {
+          "type": "select",
+          "settings": {
+            "testimonial": "<p>Excellent transaction. Item as described with fast shipping. 5 stars!!!!!!!!!!!</p>",
+            "name": "Brian N., Chicago, IL"
+          }
+        },
+        "select_Mn6YGf": {
+          "type": "select",
+          "settings": {
+            "testimonial": "<p>Arrived on time and exactly as described. Very positive experience. Thank you</p>",
+            "name": "Michael B., La Jolla, CA"
+          }
+        },
+        "select_APp47Y": {
+          "type": "select",
+          "settings": {
+            "testimonial": "<p>A+++! Exactly as described!! Fast shipping!! Easy transaction! Great seller!!</p>",
+            "name": "J. Jack, Bethesda, MD"
+          }
+        },
+        "select_96bxiA": {
+          "type": "select",
+          "settings": {
+            "testimonial": "<p>OTTIMO VENDITORE! PRODOTTO ORIGINALE! CONSIGLIATO AL 100%!</p>",
+            "name": "Calin C., Oradea, Romania"
+          }
+        },
+        "select_NcHzDU": {
+          "type": "select",
+          "settings": {
+            "testimonial": "<p>Great price for this replacement band/strap for my Breitling Chronomat! Would def buy from again.</p>",
+            "name": "John B., League City, TX"
+          }
+        },
+        "select_bcU9fi": {
+          "type": "select",
+          "settings": {
+            "testimonial": "<p>Super fast shipping. Item as described. Highly recommend. Thank you!</p>",
+            "name": "Ahmed F., Lake Forest, IL"
+          }
+        }
+      },
+      "block_order": [
+        "70157935-9644-436f-92d3-5792ce6d8155",
+        "4f2a70db-868c-4b2f-94ad-1db8e2ab34d1",
+        "7dced6c8-6a20-4e5d-a628-6b9a624c6026",
+        "ef4e9123-c3d7-4455-b1f5-6269dc312660",
+        "select_GJBn4B",
+        "select_DwyXhj",
+        "select_Ed6DRY",
+        "select_bamhWW",
+        "select_k3MFMF",
+        "select_gcqaPk",
+        "select_gDYeMN",
+        "select_Mn6YGf",
+        "select_APp47Y",
+        "select_96bxiA",
+        "select_NcHzDU",
+        "select_bcU9fi"
+      ],
+      "settings": {
+        "title": "Customer Testimonial",
+        "css_class": "custom-testimonial"
+      }
+    },
+    "16868577293f984b5f": {
+      "type": "apps",
+      "blocks": {
+        "dbf54e44-d841-41e5-8d81-bc5bef061cbf": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "dbf54e44-d841-41e5-8d81-bc5bef061cbf"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "f6943cb1-43ce-4005-9e70-a7d083a444d7",
+    "e044416e-be9e-4f7b-a352-1d19c887e215",
+    "rich_text",
+    "image_banner",
+    "aec4ee14-35c1-462b-b209-da363e7b5c92",
+    "featured_collection",
+    "1db75b3d-5bc4-4f43-be08-25c75f8993ff",
+    "ea7da348-3b21-4a75-a1a2-a2f4d717894f",
+    "multicolumn_new_6PmcRH",
+    "bce5a65a-8d10-4b6a-b9f5-7f2ba3bc9250",
+    "a3757606-e7d8-4bfe-a240-135128832d2c",
+    "16868577293f984b5f"
+  ]
+}
