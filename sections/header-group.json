@@ -16,7 +16,6 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Labor Day Sale: Buy 1, Get 10% Off Or Buy 2 to Get 15% Off | Discount applies on Checkout",
             "link": ""
@@ -32,6 +31,7 @@
         },
         "announcement_jFnA6h": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "welcome to Gift of Time Luxury Watch Store",
             "link": ""
