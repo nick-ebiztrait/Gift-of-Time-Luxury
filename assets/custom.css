@@ -381,6 +381,19 @@ section#section-template--14509623771216__a3757606-e7d8-4bfe-a240-135128832d2c {
 .custom-row a.button.button--secondary{
   border: 1px solid;
 }
+@media (max-width: 991px) {
+.customapplo {
+    padding: 1.1rem 3.2rem;
+}
+.customapplo .custtomer_apps {
+    width: max-content;
+    border-color: #000;
+    display:block;
+}
+    .customapplo .header__menu-item span {
+        color: #000;
+    }
+}
 
 @media (max-width: 768px) {
   .footer__content-bottom {
