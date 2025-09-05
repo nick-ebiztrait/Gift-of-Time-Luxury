@@ -463,6 +463,16 @@
   }
 
   customElements.define('sticky-header', StickyHeader);
+// custom popup API
+  document.getElementById('openPopup').onclick = function() {
+    document.getElementById('popupModal').style.display = 'flex';
+  };
+
+$('#closePopup').on('click', function() {
+  $('#popupModal').css('display', 'none');
+  $('#custofrems').attr('src', $('#custofrems').attr('src')); 
+});
+
 {% endjavascript %}
 
 <script type="application/ld+json">
