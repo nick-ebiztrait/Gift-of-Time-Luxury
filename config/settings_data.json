@@ -236,13 +236,13 @@
         "disabled": false,
         "settings": {}
       },
-      "5028733920296764920": {
-        "type": "shopify://apps/poptin-exit-popup-email-pop-up/blocks/poptin/182272aa-99b0-4fe3-a6ce-2aa49aed1d90",
+      "855628211100114053": {
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
         "settings": {}
       },
-      "855628211100114053": {
-        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
+      "5028733920296764920": {
+        "type": "shopify://apps/poptin-exit-popup-email-pop-up/blocks/poptin/182272aa-99b0-4fe3-a6ce-2aa49aed1d90",
         "disabled": false,
         "settings": {}
       }
