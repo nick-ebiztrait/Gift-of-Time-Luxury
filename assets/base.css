@@ -3404,7 +3404,7 @@ details-disclosure > details {
     border: 1px solid #000;
     color: #000;
 }
-.header__icons section.lr-bar button#openPopup {
+header .header__icons section.lr-bar button#openPopup {
     line-height: 14px;
     font-size: 1.4rem;
     text-transform: uppercase;
@@ -3412,7 +3412,7 @@ details-disclosure > details {
     padding: 0 14px;
     border-radius: 0;
 }
-.header__icons section.lr-bar {
+header .header__icons section.lr-bar {
     border: 0;
     padding: 0;
 }
