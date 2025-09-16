@@ -3412,3 +3412,7 @@ details-disclosure > details {
     padding: 0 14px;
     border-radius: 0;
 }
+.header__icons section.lr-bar {
+    border: 0;
+    padding: 0;
+}
