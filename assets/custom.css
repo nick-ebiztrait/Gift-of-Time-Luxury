@@ -452,3 +452,16 @@ section#section-template--14509623771216__a3757606-e7d8-4bfe-a240-135128832d2c {
     text-align: center;
 }
   }
+
+  header .header__icons section.lr-bar button#openPopup {
+    line-height: 14px;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    min-height: 3rem;
+    padding: 0 14px;
+    border-radius: 0;
+}
+header .header__icons section.lr-bar {
+    border: 0;
+    padding: 0;
+}
