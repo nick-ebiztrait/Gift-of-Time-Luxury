@@ -495,6 +495,32 @@
           <iframe src="https://estagingserver.com/giftlux_store/public/index.php/strap-finder" width="100%" height="90%" style="border:none;" id="custofrems"></iframe>
       </div>
     </div>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const openBtn = document.getElementById('openPopup');
+  const closeBtn = document.getElementById('closePopup');
+  const popup = document.getElementById('popupModal');
+
+  if (openBtn && popup) {
+    openBtn.addEventListener('click', function () {
+      // Close the mobile menu drawer if it's open
+      const activeDrawer = document.querySelector('[data-drawer].is-open');
+      if (activeDrawer) {
+        activeDrawer.classList.remove('is-open');
+        document.documentElement.classList.remove('overflow-hidden'); 
+      }
+      // Show the popup
+      popup.style.display = 'flex';
+    });
+  }
+
+  if (closeBtn && popup) {
+    closeBtn.addEventListener('click', function () {
+      popup.style.display = 'none';
+    });
+  }
+});
+</script>
 
 
   </body>
