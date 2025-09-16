@@ -3404,15 +3404,3 @@ details-disclosure > details {
     border: 1px solid #000;
     color: #000;
 }
-header .header__icons section.lr-bar button#openPopup {
-    line-height: 14px;
-    font-size: 1.4rem;
-    text-transform: uppercase;
-    min-height: 3rem;
-    padding: 0 14px;
-    border-radius: 0;
-}
-header .header__icons section.lr-bar {
-    border: 0;
-    padding: 0;
-}
