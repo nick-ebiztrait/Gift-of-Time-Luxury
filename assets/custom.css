@@ -386,7 +386,7 @@ section#section-template--14509623771216__a3757606-e7d8-4bfe-a240-135128832d2c {
     padding: 1.1rem 3.2rem;
 }
 .customapplo .custtomer_apps {
-    width: 100%;
+    width: max-content;
     border-color: #000;
     display:block;
 }
