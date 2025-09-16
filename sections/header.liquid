@@ -253,6 +253,26 @@
     {%- endif -%}
 
     <div class="header__icons{% if section.settings.enable_country_selector or section.settings.enable_language_selector %} header__icons--localization header__localization{% endif %}">
+
+
+<!-- Left Text | Right Button Bar -->
+<section class="lr-bar">
+  <div class="lr-bar__text">
+    <h3 class="lr-bar__title">Strap Finder</h3>
+  </div>
+
+       <button id="openPopup" class="button button--secondary link link--text focus-inset custtomer_apps"><span>START</span></button>
+
+
+<div id="popupModal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,0.7);z-index:10000; align-items: center;">
+<div class="test" style="position:relative;margin:5% auto;width:80%;height:100%; max-height: 428px; background:white;padding:10px;">
+<span id="closePopup" style="position:absolute;top:10px;right:30px;font-size:24px;cursor:pointer;">&times;</span>
+<iframe src="https://estagingserver.com/giftlux_store/public/index.php/strap-finder" width="100%" height="90%" style="border:none;" id="custofrems"></iframe>
+</div>
+</div>
+</section>
+
+
       <div class="desktop-localization-wrapper">
         {%- if section.settings.enable_country_selector and localization.available_countries.size > 1 -%}
           <noscript class="small-hide medium-hide">
