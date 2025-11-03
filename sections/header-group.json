@@ -16,14 +16,14 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
-            "text": "Halloween Sale: Enjoy10% Off sitewide | Use Promo code: Halloween10",
+            "text": "Halloween Sale: Enjoy 10% Off sitewide | Use Promo code: Halloween10",
             "link": ""
           }
         },
         "announcement_jUBgEc": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Welcome to our store",
             "link": ""

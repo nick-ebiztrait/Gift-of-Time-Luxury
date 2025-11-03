@@ -37,7 +37,6 @@
       "blocks": {
         "template--14509623771216__e044416e-be9e-4f7b-a352-1d19c887e215-16866563620ec08cfe-0": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/banner.png",
             "heading": "Best SwissWatch Products",
@@ -56,6 +55,7 @@
         },
         "188f9a29-f7ab-4244-b6ba-03b87a3e9403": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Banner_2_1.jpg",
             "heading": "",
