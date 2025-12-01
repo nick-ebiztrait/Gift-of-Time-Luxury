@@ -16,6 +16,7 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Black Friday Sale: Enjoy 15% Off sitewide | Use Promo code: BLACK15",
             "link": ""
@@ -31,7 +32,6 @@
         },
         "announcement_jFnA6h": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "welcome to Gift of Time Luxury Watch Store",
             "link": ""
