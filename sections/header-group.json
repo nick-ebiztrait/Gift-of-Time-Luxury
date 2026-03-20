@@ -16,9 +16,8 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "Valentine's Day Sale: Enjoy 15% Off sitewide | Use Promo code: LOVE15",
+            "text": "Easter Day Sale: Enjoy 15% Off sitewide | Use Promo code: EASTER15",
             "link": ""
           }
         },
@@ -32,6 +31,7 @@
         },
         "announcement_jFnA6h": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "welcome to Gift of Time Luxury Watch Store",
             "link": ""
