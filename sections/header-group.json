@@ -14,10 +14,18 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_GM3M9P": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "Welcome to our store",
+            "link": ""
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Easter Day Sale: Enjoy 15% Off sitewide | Use Promo code: EASTER15",
+            "text": "Spring Holiday Sale: Enjoy 15% Off sitewide | Use Promo code: SPRING15",
             "link": ""
           }
         },
@@ -47,6 +55,7 @@
         }
       },
       "block_order": [
+        "announcement_GM3M9P",
         "announcement-bar-0",
         "announcement_jUBgEc",
         "announcement_jFnA6h",
