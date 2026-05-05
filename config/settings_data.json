@@ -305,9 +305,9 @@
       },
       "scheme-e14202de-fdff-42d9-8382-1d1142aa5e71": {
         "settings": {
-          "background": "#ffffff",
+          "background": "#0e2b94",
           "background_gradient": "",
-          "text": "#121212",
+          "text": "#fc5b5b",
           "button": "#121212",
           "button_label": "#ffffff",
           "secondary_button_label": "#121212",
