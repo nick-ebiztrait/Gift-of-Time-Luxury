@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_GM3M9P": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Welcome to our store",
             "link": ""
@@ -23,10 +24,9 @@
         },
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "Spring Holiday Sale: Enjoy 15% Off sitewide | Use Promo code: SPRING15",
-            "link": ""
+            "text": "Memorial Day Sale: Enjoy 15% Off sitewide | Use Promo code: MEMORIAL15",
+            "link": "shopify://collections"
           }
         },
         "announcement_jUBgEc": {
