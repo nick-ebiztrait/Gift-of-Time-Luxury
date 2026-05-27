@@ -8,25 +8,21 @@
     "@id": {{ shop.url | append: article.url | json }}
   },
   "headline": {{ article.title | strip_html | json }},
-  "description": {{ article.excerpt_or_content | strip_html | truncatewords: 50 | json }},
-
-  {% if article.image %}
+  "description": {{ article.excerpt_or_content | strip_html | truncatewords: 50 | json }}
+  {% if article.image %},
   "image": {
     "@type": "ImageObject",
     "url": {{ article.image | image_url: width: 1200 | prepend: 'https:' | json }},
     "width": {{ article.image.width | default: 1200 }},
     "height": {{ article.image.height | default: 630 }}
-  },
-  {% endif %}
-
+  }
+  {% endif %},
   "datePublished": {{ article.published_at | date: "%Y-%m-%dT%H:%M:%S%z" | json }},
   "dateModified": {{ article.updated_at | date: "%Y-%m-%dT%H:%M:%S%z" | json }},
-
   "author": {
     "@type": "Person",
     "name": {{ article.author | default: shop.name | json }}
   },
-
   "publisher": {
     "@type": "Organization",
     "name": {{ shop.name | json }}
@@ -39,9 +35,7 @@
     }
     {% endif %}
   },
-
   "url": {{ shop.url | append: article.url | json }}
-
   {% if article.tags.size > 0 %},
   "keywords": {{ article.tags | join: ", " | json }}
   {% endif %}
