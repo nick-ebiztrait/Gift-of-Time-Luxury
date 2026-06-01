@@ -22,18 +22,10 @@
             "link": ""
           }
         },
-        "announcement-bar-0": {
-          "type": "announcement",
-          "settings": {
-            "text": "Father's Day Sale: Enjoy 20% Off on Orders over $250 | Use Promo code: FATHER20",
-            "link": "shopify://collections"
-          }
-        },
         "announcement_jUBgEc": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "Welcome to our store",
+            "text": "Father's Day Sale | Get 20% Off on orders above $250 |Use Promo Code: Father20",
             "link": ""
           }
         },
@@ -56,7 +48,6 @@
       },
       "block_order": [
         "announcement_GM3M9P",
-        "announcement-bar-0",
         "announcement_jUBgEc",
         "announcement_jFnA6h",
         "announcement_BTMeV7"
