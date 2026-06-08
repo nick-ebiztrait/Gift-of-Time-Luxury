@@ -1,0 +1,65 @@
+<script type="text/javascript">
+(function(){
+  var DEFER_SRCS=[
+    "connect.facebook.net",
+    "assets/storefront/features",
+    "assets/shopify_pay",
+    "static.ctctcdn.com",
+    "shopifycloud/perf-kit",
+    "shop-js/modules",
+    "storefront/assets/shop_events_listener"
+  ];
+  var DEFER_IDS=[
+    "signupScript",
+    "captcha-bootstrap",
+    "web-pixels-manager-setup"
+  ];
+  var LAZY_KEYWORDS=[
+    "asyncLoad",
+    "PreviewBarInjector"
+  ];
+
+  function shouldDeferSrc(src){
+    return src && DEFER_SRCS.some(function(p){return src.indexOf(p)>-1});
+  }
+  function shouldDeferById(id){
+    return id && DEFER_IDS.indexOf(id)>-1;
+  }
+
+  var observer=new MutationObserver(function(mutations){
+    mutations.forEach(function(m){
+      m.addedNodes.forEach(function(node){
+        if(node.nodeType!==1) return;
+        if(node.tagName==="SCRIPT"){
+          if(node.classList.contains("analytics")) return;
+
+          if(shouldDeferSrc(node.src)||shouldDeferById(node.id)){
+            node.setAttribute("data-src",node.src||"");
+            node.removeAttribute("src");
+            node.setAttribute("type","text/lazyload");
+            return;
+          }
+          var html=node.innerHTML;
+          if(html){
+            if(html.indexOf("asyncLoad")>-1){
+              node.innerHTML=html
+                .replace("if(window.attachEvent)","document.addEventListener('asyncLazyLoad',function(e){asyncLoad();});if(window.attachEvent)")
+                .replaceAll(", asyncLoad",", function(){}");
+            }
+            if(html.indexOf("PreviewBarInjector")>-1){
+              node.innerHTML=html.replace("DOMContentLoaded","asyncLazyLoad");
+            }
+          }
+        }
+        if(node.tagName==="LINK"&&node.rel==="stylesheet"&&node.getAttribute("data-lazy")){
+          node.setAttribute("data-href",node.href);
+          node.removeAttribute("href");
+        }
+      });
+    });
+  });
+
+  observer.observe(document.documentElement,{childList:true,subtree:true});
+  window.__speedObserver=observer;
+})();
+</script>
