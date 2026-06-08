@@ -448,7 +448,7 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     ></script>
-    <script src="{{ 'slick.js' | asset_url }}" defer="defer"></script>
+    {% comment %} <script src="{{ 'slick.js' | asset_url }}" defer="defer"></script> {% endcomment %}
     <script>
       $(document).on('ready', function() {
         $(".regular").slick({
