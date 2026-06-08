@@ -243,7 +243,8 @@
     {% endcomment %}
      <link rel="preload" href="{{'custom.css' | asset_url}}" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="{{'custom.css' | asset_url }}"></noscript>
-
+<link rel="preload" href="{{'responsive.css' | asset_url}}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="{{'responsive.css' | asset_url }}"></noscript>
     {{ 'custom.css' | asset_url | stylesheet_tag }}
     {{ 'responsive.css' | asset_url | stylesheet_tag }}
     {{ 'new-seo.css' | asset_url | stylesheet_tag }}
