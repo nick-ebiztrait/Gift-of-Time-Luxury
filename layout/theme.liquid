@@ -28,7 +28,10 @@
     {% endif %}
 
     {% render 'meta-tags' %}
-
+    <link rel="preload" href="{{ 'custom.css' | asset_url }}" as="style">
+    <link rel="preload" href="{{ 'base.css' | asset_url }}" as="style">
+    <link rel="preload" href="{{ 'new-seo.css' | asset_url }}" as="style">
+    <link rel="preload" href="{{ 'responsive.css' | asset_url }}" as="style">
      <link rel="preload" as="style" media="screen" href="https://giftoftimeluxurystore.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css" crossorigin="anonymous">
 
     <script src="{{ 'constants.js' | asset_url }}" defer="defer"></script>
@@ -243,12 +246,7 @@
     {% comment %}
     {{ 'base.css' | asset_url | stylesheet_tag }}
     {% endcomment %}
-     <link rel="preload" href="{{'custom.css' | asset_url}}" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="{{'custom.css' | asset_url }}"></noscript>
-<link rel="preload" href="{{'responsive.css' | asset_url}}" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="{{'responsive.css' | asset_url }}"></noscript>
-<link rel="preload" href="{{'new-seo.css' | asset_url}}" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="{{'new-seo.css' | asset_url }}"></noscript>
+    
 
     {{ 'custom.css' | asset_url | stylesheet_tag }}
     {{ 'responsive.css' | asset_url | stylesheet_tag }}
